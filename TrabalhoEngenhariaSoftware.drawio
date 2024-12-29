@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="5">
   <diagram name="Diagrama de casos de uso" id="9AypORdBvpstCfJbFDK_">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8hGdFZyyyruJXE962UZh" name="Diagrama de Atividades">
-    <mxGraphModel dx="1615" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,7 +327,7 @@
           <mxGeometry x="105" y="-200" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2LDHxRhsG6w2tp37JNjt-1" value="" style="line;strokeWidth=1;fillColor=#0050ef;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="24" y="610" width="1426" height="18" as="geometry" />
+          <mxGeometry x="12" y="610" width="1426" height="18" as="geometry" />
         </mxCell>
         <mxCell id="2LDHxRhsG6w2tp37JNjt-4" value="Sistema" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="24" y="760" width="60" height="30" as="geometry" />
